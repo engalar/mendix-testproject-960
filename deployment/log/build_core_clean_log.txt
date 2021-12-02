@@ -1,0 +1,8 @@
+Buildfile: C:\d\repo\widgets-resources-cn\packages\pluggableWidgets\fileviewer-web\tests\testProject\deployment\build_core.xml
+
+clean:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

@@ -1,0 +1,10 @@
+Buildfile: C:\d\repo\widgets-resources-cn\packages\pluggableWidgets\fileviewer-web\tests\testProject\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 41 files to C:\d\repo\widgets-resources-cn\packages\pluggableWidgets\fileviewer-web\tests\testProject\deployment
+     [copy] Copying 5 files to C:\d\repo\widgets-resources-cn\packages\pluggableWidgets\fileviewer-web\tests\testProject\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
