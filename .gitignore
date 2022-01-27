@@ -1,0 +1,8 @@
+.testProject.mpr.bak
+.mendix-cache
+deployment
+theme-cache
+*.launch
+.classpath
+testProject.mpr.lock
+.project
