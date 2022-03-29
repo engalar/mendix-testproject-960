@@ -6,3 +6,5 @@ theme-cache
 .classpath
 testProject.mpr.lock
 .project
+javasource/*/proxies/*
+project-settings.user.json
